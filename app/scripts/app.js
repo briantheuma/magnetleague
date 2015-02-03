@@ -16,7 +16,8 @@ var leagueApp = angular
     'ngRoute',
     'ngSanitize',
     'ngTouch',
-    'firebase'
+    'firebase',
+    'ngTable'
   ])
   .config(function ($routeProvider) {
     $routeProvider

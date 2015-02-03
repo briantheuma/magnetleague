@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014900e6-4439-467b-946e-380d9df908fc" name="Default" comment="" />
+    <list default="true" id="014900e6-4439-467b-946e-380d9df908fc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="league-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,28 +36,38 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1365">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="420">
-              <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.11022658" vertical-offset="0" max-vertical-offset="1633">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27157512" vertical-offset="0" max-vertical-offset="1657">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+              <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -57,17 +75,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/about.js" />
         <option value="$PROJECT_DIR$/test/spec/controllers/about.js" />
         <option value="$PROJECT_DIR$/test/spec/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/views/main.html" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/views/main.html" />
       </list>
     </option>
   </component>
@@ -87,7 +109,7 @@
     <option name="width" value="2880" />
     <option name="height" value="1777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -127,6 +149,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="league-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -332,12 +408,12 @@
       <created>1422873426128</created>
       <option name="number" value="Default" />
       <updated>1422873426128</updated>
-      <workItem from="1422873426696" duration="5677000" />
+      <workItem from="1422873426696" duration="10111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5677000" />
+    <option name="totallyTimeSpent" value="10111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2880" height="1777" extended-state="0" />
@@ -402,14 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29393753" vertical-offset="0" max-vertical-offset="1633">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.027247956" vertical-offset="0" max-vertical-offset="1101">
@@ -434,26 +502,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.03674219" vertical-offset="0" max-vertical-offset="1633">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="420">
-          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27157512" vertical-offset="0" max-vertical-offset="1657">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11022658" vertical-offset="0" max-vertical-offset="1633">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding />
         </state>
       </provider>
